@@ -3082,13 +3082,13 @@ html.no-csstransitions .home-content__main {
 .contact-content textarea.placeholder {
     color: #4f4f4f !important;
 }
-.contact-primary, .contact-secondary {
+.contact-primary {
     float: left;
     padding: 0 5rem;
 }
 
 .contact-primary {
-    width: 65%;
+    width: 100%;
 }
 
 .contact-primary #contactForm {
